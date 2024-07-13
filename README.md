@@ -1,1 +1,1 @@
-ECHO est  ativado.
+alteração feita professor
